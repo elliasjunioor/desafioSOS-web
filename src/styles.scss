@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #151138;
+
+  background-image: linear-gradient(to bottom, #151138, #091b2a);
+
+  background-repeat: no-repeat;
+
+  /* Define a altura da página para cobrir todo o conteúdo visível */
+  min-height: 100vh;
+
+}
+
+.dt-card {
+  margin: 2em 20%;
+  padding: 20px;
+  background-color: #fdfdfd;
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 2px #ffffff, 0 0 5px #ff0000, 0 0 7px #ffffff;
+
+}
